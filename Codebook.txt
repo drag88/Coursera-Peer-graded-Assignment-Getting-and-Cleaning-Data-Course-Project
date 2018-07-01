@@ -1,0 +1,81 @@
+tidy_data CODEBOOK
+
+"subject"  the subject of the activity, there are 30 volunteers
+
+"activity" the activity type, there are 6 activity types:
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+
+The following variables are the calculated mean and standard deviations of the 
+measurements coming from the Samsung device:
+"Time_Body_Acceleration.mean...X" 
+"Time_Body_Acceleration.mean...Y" 
+"Time_Body_Acceleration.mean...Z" 
+"Time_Gravity_Acceleration.mean...X" 
+"Time_Gravity_Acceleration.mean...Y" 
+"Time_Gravity_Acceleration.mean...Z" 
+"Time_Body_AccelerationJerk.mean...X" 
+"Time_Body_AccelerationJerk.mean...Y" 
+"Time_Body_AccelerationJerk.mean...Z" 
+"Time_Body_Gyroscope.mean...X" 
+"Time_Body_Gyroscope.mean...Y" 
+"Time_Body_Gyroscope.mean...Z" 
+"Time_Body_GyroscopeJerk.mean...X" 
+"Time_Body_GyroscopeJerk.mean...Y" 
+"Time_Body_GyroscopeJerk.mean...Z" 
+"Time_Body_Acceleration_Magnitude.mean.." 
+"Time_Gravity_Acceleration_Magnitude.mean.." 
+"Time_Body_AccelerationJerk_Magnitude.mean.." 
+"Time_Body_Gyroscope_Magnitude.mean.." 
+"Time_Body_GyroscopeJerk_Magnitude.mean.." 
+"Frequency_Body_Acceleration.mean...X" 
+"Frequency_Body_Acceleration.mean...Y" 
+"Frequency_Body_Acceleration.mean...Z" 
+"Frequency_Body_AccelerationJerk.mean...X" 
+"Frequency_Body_AccelerationJerk.mean...Y" 
+"Frequency_Body_AccelerationJerk.mean...Z" 
+"Frequency_Body_Gyroscope.mean...X" 
+"Frequency_Body_Gyroscope.mean...Y" 
+"Frequency_Body_Gyroscope.mean...Z" 
+"Frequency_Body_Acceleration_Magnitude.mean.." 
+"Frequency_BodyBody_AccelerationJerk_Magnitude.mean.." 
+"Frequency_BodyBody_Gyroscope_Magnitude.mean.." 
+"Frequency_BodyBody_GyroscopeJerk_Magnitude.mean.." 
+"Time_Body_Acceleration.std...X" 
+"Time_Body_Acceleration.std...Y" 
+"Time_Body_Acceleration.std...Z" 
+"Time_Gravity_Acceleration.std...X" 
+"Time_Gravity_Acceleration.std...Y" 
+"Time_Gravity_Acceleration.std...Z" 
+"Time_Body_AccelerationJerk.std...X" 
+"Time_Body_AccelerationJerk.std...Y" 
+"Time_Body_AccelerationJerk.std...Z" 
+"Time_Body_Gyroscope.std...X" 
+"Time_Body_Gyroscope.std...Y" 
+"Time_Body_Gyroscope.std...Z" 
+"Time_Body_GyroscopeJerk.std...X" 
+"Time_Body_GyroscopeJerk.std...Y" 
+"Time_Body_GyroscopeJerk.std...Z" 
+"Time_Body_Acceleration_Magnitude.std.." 
+"Time_Gravity_Acceleration_Magnitude.std.." 
+"Time_Body_AccelerationJerk_Magnitude.std.." 
+"Time_Body_Gyroscope_Magnitude.std.." 
+"Time_Body_GyroscopeJerk_Magnitude.std.." 
+"Frequency_Body_Acceleration.std...X" 
+"Frequency_Body_Acceleration.std...Y" 
+"Frequency_Body_Acceleration.std...Z" 
+"Frequency_Body_AccelerationJerk.std...X" 
+"Frequency_Body_AccelerationJerk.std...Y" 
+"Frequency_Body_AccelerationJerk.std...Z" 
+"Frequency_Body_Gyroscope.std...X" 
+"Frequency_Body_Gyroscope.std...Y" 
+"Frequency_Body_Gyroscope.std...Z" 
+"Frequency_Body_Acceleration_Magnitude.std.." 
+"Frequency_BodyBody_AccelerationJerk_Magnitude.std.." 
+"Frequency_BodyBody_Gyroscope_Magnitude.std.." 
+"Frequency_BodyBody_GyroscopeJerk_Magnitude.std.."
